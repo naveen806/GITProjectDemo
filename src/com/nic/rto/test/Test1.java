@@ -1,9 +1,11 @@
 package com.nic.rto.test;
 
-public class Test {
-
+public class Test1 {
+	
 	public static void main(String[] args) {
 		
-		System.out.println("GIT DEMO: modified");
+		System.out.println("Test1 New class");
+		
 	}
+
 }
